@@ -56,6 +56,11 @@ Reglas creadas:
 🔎 4. Verificación de aplicación de políticas
 Comando ejecutado en cliente:
 
+Bloqueo de Panel de control 
+Configuración de usuario > Plantillas administrativas > Panel de control> ... aqui encontrara muchas opciones, "selecionar Prohibir acceso a configuracion del pc y a panel de control"
+
+
+
 bash
 Copiar
 Editar
